@@ -1,6 +1,7 @@
 # Ecommerce
-check hosted website here
 This website is basically a good example is of how to work with cookies wihtout using backend for data storage.
+
+check hosted website here
 
 http://dsingh19.pythonanywhere.com/
 ![Screenshot from 2023-01-18 04-45-06](https://user-images.githubusercontent.com/83509793/213307805-ea21f738-f3f0-4c8d-9c1a-880b69055c69.png)
