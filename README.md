@@ -1,5 +1,5 @@
 # Ecommerce
-This website is basically a good example is of how to work with cookies wihtout using backend for data storage.
+This website is basically a good example is of how to work with cookies without using backend for data storage.
 
 check hosted website here
 
